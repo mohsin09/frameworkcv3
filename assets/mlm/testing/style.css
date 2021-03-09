@@ -1,0 +1,11 @@
+.container{
+    background-color: #cdd7dc;
+    height: 100px;
+    width:500px;
+    /* background-image: url(Desktop\download(1)); */
+    border:2px solid #009688;
+    padding:14px 19px ;
+    margin:14px 19px ;
+    border-radius:15px;
+}
+ 
